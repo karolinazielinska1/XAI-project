@@ -6,7 +6,7 @@ This repository contains data and codes for final project for class: **Applicati
 - `data/`: Store intial and prepared data for modelling.
 - `notebooks/`: Stores Jupyter notebooks with data analysis.
 - `models/`: Stores trained models.
-- `requirements.txt`: Used to set up the project environment.
+- `pyproject.toml`: Used to set up the project environment.
 - `README.md`: Overview of the project.
 
 
